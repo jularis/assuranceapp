@@ -1,0 +1,11 @@
+{
+    "name": "Magasin",
+    "alias": "magasin",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Magasin\\Providers\\MagasinServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Dentisterie",
+    "alias": "dentisterie",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Dentisterie\\Providers\\DentisterieServiceProvider"
+    ],
+    "files": []
+}

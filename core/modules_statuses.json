@@ -1,0 +1,14 @@
+{
+    "Ambulatoire": true,
+    "Pharmacie": true,
+    "Hospitalisation": true,
+    "Laboratoire": true,
+    "Dentisterie": true,
+    "Optique": false,
+    "Kinesitherapie": true,
+    "Formation": true,
+    "Clinique": true,
+    "Caisse": true,
+    "Magasin": true,
+    "Portier": true
+}

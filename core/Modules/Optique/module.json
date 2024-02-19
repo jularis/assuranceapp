@@ -1,0 +1,11 @@
+{
+    "name": "Optique",
+    "alias": "optique",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Optique\\Providers\\OptiqueServiceProvider"
+    ],
+    "files": []
+}

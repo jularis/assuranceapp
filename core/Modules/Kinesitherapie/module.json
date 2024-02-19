@@ -1,0 +1,11 @@
+{
+    "name": "Kinesitherapie",
+    "alias": "kinesitherapie",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Kinesitherapie\\Providers\\KinesitherapieServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Ambulatoire",
+    "alias": "ambulatoire",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Ambulatoire\\Providers\\AmbulatoireServiceProvider"
+    ],
+    "files": []
+}

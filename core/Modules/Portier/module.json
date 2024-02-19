@@ -1,0 +1,11 @@
+{
+    "name": "Portier",
+    "alias": "portier",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Portier\\Providers\\PortierServiceProvider"
+    ],
+    "files": []
+}

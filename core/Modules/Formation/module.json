@@ -1,0 +1,11 @@
+{
+    "name": "Formation",
+    "alias": "formation",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Formation\\Providers\\FormationServiceProvider"
+    ],
+    "files": []
+}
